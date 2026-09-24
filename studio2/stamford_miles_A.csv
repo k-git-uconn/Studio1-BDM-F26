@@ -1,0 +1,14 @@
+from,UConn Stamford (depot),"Greenwich Ave, Greenwich",Old Greenwich,Cos Cob,"Shippan Point, Stamford","Glenbrook, Stamford","Springdale, Stamford",North Stamford,"Port Chester, NY","Rye, NY",Banksville,"Riverside, Greenwich","Armonk, NY"
+UConn Stamford (depot),0,6,4,4,2,2,3,6,8,10,12,3,22
+"Greenwich Ave, Greenwich",6,0,5,2,7,8,9,12,3,5,9,4,11
+Old Greenwich,4,5,0,4,5,6,6,9,8,10,12,1,18
+Cos Cob,4,2,4,0,5,6,7,9,5,7,9,2,13
+"Shippan Point, Stamford",2,7,5,5,0,3,4,8,10,11,13,5,22
+"Glenbrook, Stamford",2,8,6,6,3,0,2,6,10,12,12,6,16
+"Springdale, Stamford",3,9,6,7,4,2,0,4,11,13,12,6,16
+North Stamford,6,12,9,9,8,6,4,0,15,17,11,9,15
+"Port Chester, NY",8,3,8,5,10,10,11,15,0,2,12,7,12
+"Rye, NY",10,5,10,7,11,12,13,17,2,0,13,9,13
+Banksville,12,9,12,9,13,12,12,11,12,13,0,11,6
+"Riverside, Greenwich",3,4,1,2,5,6,6,9,7,9,11,0,15
+"Armonk, NY",22,11,18,13,22,16,16,15,12,13,6,15,0

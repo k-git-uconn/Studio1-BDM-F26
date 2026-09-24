@@ -1,0 +1,27 @@
+team,stop_id,stop,lat,lon
+A,0,UConn Stamford (depot),41.0535,-73.5413
+A,1,"Greenwich Ave, Greenwich",41.0262,-73.6282
+A,2,Old Greenwich,41.0229,-73.5687
+A,3,Cos Cob,41.0334,-73.5993
+A,4,"Shippan Point, Stamford",41.0386,-73.529
+A,5,"Glenbrook, Stamford",41.0707,-73.5218
+A,6,"Springdale, Stamford",41.0876,-73.5268
+A,7,North Stamford,41.138,-73.543
+A,8,"Port Chester, NY",41.0018,-73.6657
+A,9,"Rye, NY",40.9807,-73.6837
+A,10,Banksville,41.144,-73.632
+A,11,"Riverside, Greenwich",41.032,-73.579
+A,12,"Armonk, NY",41.1265,-73.714
+B,0,UConn Stamford (depot),41.0535,-73.5413
+B,1,Darien,41.0787,-73.4693
+B,2,New Canaan,41.1468,-73.4948
+B,3,"Pound Ridge, NY",41.2087,-73.5751
+B,4,Rowayton,41.0651,-73.4457
+B,5,"SoNo, Norwalk",41.0982,-73.4204
+B,6,Westport,41.1415,-73.3579
+B,7,Wilton,41.1954,-73.4379
+B,8,Weston,41.2009,-73.3807
+B,9,Ridgefield,41.2815,-73.4982
+B,10,Fairfield,41.1412,-73.2637
+B,11,"Bedford, NY",41.2043,-73.6437
+B,12,"Noroton Heights, Darien",41.0721,-73.4924
