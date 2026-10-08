@@ -1,0 +1,10 @@
+nutrient,label,daily_minimum
+calories,Calories (kcal),3
+protein,Protein (g),70
+calcium,Calcium (g),0.8
+iron,Iron (mg),12
+vitamin_a,Vitamin A (KIU),5
+thiamine,Vitamin B1 (mg),1.8
+riboflavin,Vitamin B2 (mg),2.7
+niacin,Niacin (mg),18
+vitamin_c,Vitamin C (mg),75
