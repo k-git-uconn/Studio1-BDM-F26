@@ -1,0 +1,56 @@
+ticker,company,sector,sector_etf
+AAPL,Apple,Technology,XLK
+MSFT,Microsoft,Technology,XLK
+NVDA,NVIDIA,Technology,XLK
+AVGO,Broadcom,Technology,XLK
+ORCL,Oracle,Technology,XLK
+JPM,JPMorgan Chase,Financials,XLF
+BAC,Bank of America,Financials,XLF
+WFC,Wells Fargo,Financials,XLF
+GS,Goldman Sachs,Financials,XLF
+MS,Morgan Stanley,Financials,XLF
+JNJ,Johnson & Johnson,Health Care,XLV
+UNH,UnitedHealth,Health Care,XLV
+LLY,Eli Lilly,Health Care,XLV
+PFE,Pfizer,Health Care,XLV
+MRK,Merck,Health Care,XLV
+XOM,ExxonMobil,Energy,XLE
+CVX,Chevron,Energy,XLE
+COP,ConocoPhillips,Energy,XLE
+SLB,SLB (Schlumberger),Energy,XLE
+EOG,EOG Resources,Energy,XLE
+KO,Coca-Cola,Consumer Staples,XLP
+PEP,PepsiCo,Consumer Staples,XLP
+PG,Procter & Gamble,Consumer Staples,XLP
+WMT,Walmart,Consumer Staples,XLP
+COST,Costco,Consumer Staples,XLP
+AMZN,Amazon,Consumer Discretionary,XLY
+HD,Home Depot,Consumer Discretionary,XLY
+MCD,McDonald's,Consumer Discretionary,XLY
+NKE,Nike,Consumer Discretionary,XLY
+TSLA,Tesla,Consumer Discretionary,XLY
+CAT,Caterpillar,Industrials,XLI
+HON,Honeywell,Industrials,XLI
+UNP,Union Pacific,Industrials,XLI
+DE,Deere,Industrials,XLI
+LMT,Lockheed Martin,Industrials,XLI
+NEE,NextEra Energy,Utilities,XLU
+DUK,Duke Energy,Utilities,XLU
+SO,Southern Company,Utilities,XLU
+D,Dominion Energy,Utilities,XLU
+AEP,American Electric Power,Utilities,XLU
+GOOGL,Alphabet,Communication Services,XLC
+META,Meta,Communication Services,XLC
+NFLX,Netflix,Communication Services,XLC
+DIS,Disney,Communication Services,XLC
+VZ,Verizon,Communication Services,XLC
+LIN,Linde,Materials,XLB
+SHW,Sherwin-Williams,Materials,XLB
+APD,Air Products,Materials,XLB
+FCX,Freeport-McMoRan,Materials,XLB
+NEM,Newmont,Materials,XLB
+PLD,Prologis,Real Estate,XLRE
+AMT,American Tower,Real Estate,XLRE
+EQIX,Equinix,Real Estate,XLRE
+O,Realty Income,Real Estate,XLRE
+SPG,Simon Property,Real Estate,XLRE
